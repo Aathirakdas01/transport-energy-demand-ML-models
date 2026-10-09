@@ -1,4 +1,4 @@
-# Spatially explicit modelling of private-car commuting energy demand
+# Modelling of private-car commuting energy demand
 
 This repository contains the data and machine-learning code supporting the study:
 
